@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
+title: Sul blog
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Il sito nasce dalla necessità di raccontare la vita reale di uno sviluppatore web, AKA il ragazzo che lavora con il computer.
+
+Nella società attuale, internet è parte integrante della nostra vita. Nel mio caso è anche la fonte primaria di sostentamento.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
