@@ -6,10 +6,7 @@ categories: various
 ---
 Inizio spiegando il motivo che mi ha portato a questa scelta: voglio raccontare gioie e dolori di uno sviluppatore web.
 
-Opero nel campo da quasi dieci anni ormai; il mio primo sito era un'accozzaglia di pagine html statiche che parlavano di anime e manga.
-
-Iniziai a scrivere le mie prime pagine nel lontano  2002, quando mia madre portò a casa un libro il cui titolo era "Imparare l'HTML in 24 ore" (impiegai però parecchie settimane prima di acquisire qualche skill).
-Nacque così l'interesse per ciò che, qualche anno dopo, divenne il mio attuale lavoro: il consulente informatico AKA quello che fa siti.
+*WTF* è un'espressione internazionale che corrisponde a "Ma che ca.." nella nostra bellissima lingua italiana, ed è forse la sigla che ricorre più spesso nella mia testa durante l'arco della giornata.
 
 Posso riassumere il mio lavoro in tre fasi:
 
@@ -17,6 +14,14 @@ Posso riassumere il mio lavoro in tre fasi:
 2. ricerca su Google o Stack Overflow
 3. copia/incolla del codice con il maggiore punteggio su SO oppure l'esecuzione passo passo dei consigli che si trovano tra i primi suggerimenti del noto motore di Mountain View
 
+Opero nel campo da quasi dieci anni ormai; il mio primo sito era un'accozzaglia di pagine html statiche che parlavano di anime e manga.
+
+Iniziai a scrivere le mie prime pagine nel lontano  2002, quando mia madre portò a casa un libro il cui titolo era "Imparare l'HTML in 24 ore" (impiegai però parecchie settimane prima di acquisire qualche skill).
+Nacque così l'interesse per ciò che, qualche anno dopo, divenne il mio attuale lavoro: il consulente informatico AKA quello che fa siti.
+
+In questo spazio voglio aiutare le persone incazzate o frustrate che, come me, lottano giornalmente con i problemi più vari relativi allo sviluppo web.
+
+<!--
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
@@ -32,3 +37,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+-->
